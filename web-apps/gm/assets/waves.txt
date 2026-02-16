@@ -1,0 +1,571 @@
+-Wave 1
+-Type zookeeper
+100
+-Health
+15
+-Walk Speed in pixels per second
+20
+-Attack Damage
+5
+-Time to enter in seconds relative to previous
+1
+-
+-Type zookeeper
+100
+-Health
+15
+-Walk Speed in pixels per second
+25
+-Attack Damage
+5
+-Time to enter in seconds relative to previous
+2
+-
+-Type zookeeper
+100
+-Health
+15
+-Walk Speed in pixels per second
+30
+-Attack Damage
+5
+-Time to enter in seconds relative to previous
+2
+-
+-End of Wave
+~
+-Wave 2
+-Type zookeeper
+100
+-Health
+15
+-Walk Speed in pixels per second
+30
+-Attack Damage
+5
+-Time to enter in seconds relative to previous
+1
+-
+-Type Rhino
+104
+-health
+60
+-Walk speed
+25
+-Attack damage
+10
+-Time to enter
+2
+-
+-Type zookeeper
+100
+-health
+15
+-Walk speed
+30
+-Attack damage
+5
+-Time to enter
+3
+-
+-Type zookeeper
+100
+-health
+15
+-Walk speed
+25
+-Attack damage
+5
+-Time to enter
+1
+-
+~
+-Wave 3
+-Type Paperboy
+101
+-health
+20
+-Walk speed
+25
+-Attack damage
+5
+-Time to enter
+1
+-
+-Type Tim
+102
+-health
+10
+-Walk speed
+60
+-Attack damage
+2
+-Time to enter
+2
+-
+-Type Cop
+103
+-health
+20
+-Walk speed
+35
+-Attack damage
+10
+-Time to enter
+3
+-
+-Type zookeeper
+100
+-health
+20
+-Walk speed
+25
+-Attack damage
+5
+-Time to enter
+2
+-
+-Type zookeeper
+100
+-health
+20
+-Walk speed
+28
+-Attack damage
+2
+-Time to enter
+2
+-
+~
+-Wave 4
+-Type zombie
+105
+-health
+15
+-Walk speed
+30
+-Attack damage
+4
+-Time to enter
+1
+-
+-Type zombie
+105
+-health
+15
+-Walk speed
+25
+-Attack damage
+4
+-Time to enter
+1
+-
+-Type zombie
+105
+-health
+15
+-Walk speed
+35
+-Attack damage
+4
+-Time to enter
+1
+-
+-Type zombie
+105
+-health
+15
+-Walk speed
+27
+-Attack damage
+4
+-Time to enter
+1
+-
+-Type zombie
+105
+-health
+15
+-Walk speed
+30
+-Attack damage
+4
+-Time to enter
+2
+-
+-Type zombie
+105
+-health
+15
+-Walk speed
+35
+-Attack damage
+4
+-Time to enter
+1
+-
+-Type zombie
+105
+-health
+15
+-Walk speed
+32
+-Attack damage
+4
+-Time to enter
+1
+-
+-Type zombie
+105
+-health
+15
+-Walk speed
+25
+-Attack damage
+4
+-Time to enter
+1
+-
+-Type zombie
+105
+-health
+15
+-Walk speed
+33
+-Attack damage
+4
+-Time to enter
+1
+-
+~
+-Wave 5
+-Type Jug
+106
+-health
+140
+-Walk speed
+15
+-Attack damage
+15
+-Time to enter
+1
+-
+-Type Rhino
+104
+-health
+60
+-Walk speed
+25
+-Attack damage
+10
+-Time to enter
+1
+-
+-Type Rhino
+104
+-health
+60
+-Walk speed
+18
+-Attack damage
+10
+-Time to enter
+3
+-
+~
+-Wave 6
+-Type zookeeper
+100
+-health
+30
+-Walk speed
+25
+-Attack damage
+6
+-Time to enter
+1
+-
+-Type zookeeper
+100
+-health
+30
+-Walk speed
+30
+-Attack damage
+6
+-Time to enter
+1
+-
+-Type zookeeper
+100
+-health
+30
+-Walk speed
+35
+-Attack damage
+6
+-Time to enter
+2
+-
+-Type Tim
+102
+-health
+10
+-Walk speed
+60
+-Attack damage
+3
+-Time to enter
+1
+-
+-Type Paperboy
+101
+-health
+25
+-Walk speed
+30
+-Attack damage
+6
+-Time to enter
+1
+-
+-Type Paperboy
+101
+-health
+20
+-Walk speed
+25
+-Attack damage
+6
+-Time to enter
+2
+-
+-Type Cop
+103
+-health
+30
+-Walk speed
+35
+-Attack damage
+6
+-Time to enter
+2
+-
+~
+-Wave 7
+-Type Zookeeper
+100
+-health
+30
+-Walk speed
+35
+-Attack damage
+6
+-Time to enter
+1
+-
+-Type Cop
+103
+-health
+35
+-Walk speed
+35
+-Attack damage
+6
+-Time to enter
+2
+-
+-Type Tim
+102
+-health
+15
+-Walk speed
+60
+-Attack damage
+3
+-Time to enter
+1
+-
+-Type Cop
+103
+-health
+35
+-Walk speed
+35
+-Attack damage
+6
+-Time to enter
+2
+-
+-Type Rhino
+104
+-health
+60
+-Walk speed
+25
+-Attack damage
+12
+-Time to enter
+3
+-
+-Type Tim
+102
+-health
+25
+-Walk speed
+60
+-Attack damage
+3
+-Time to enter
+2
+-
+~
+-Wave 8
+-Type Paperboy
+101
+-health
+30
+-Walk speed
+35
+-Attack damage
+7
+-Time to enter
+1
+-
+-Type Cop
+103
+-health
+35
+-Walk speed
+30
+-Attack damage
+7
+-Time to enter
+1
+-
+-Type Rhino
+104
+-health
+60
+-Walk speed
+20
+-Attack damage
+10
+-Time to enter
+2
+-
+-Type Jug
+106
+-health
+160
+-Walk speed
+20
+-Attack damage
+15
+-Time to enter
+3
+-
+~
+-Wave 9
+-Type zombie
+105
+-health
+25
+-Walk speed
+35
+-Attack damage
+4
+-Time to enter
+1
+-
+-Type zombie
+105
+-health
+15
+-Walk speed
+30
+-Attack damage
+4
+-Time to enter
+0.5
+-
+-Type zombie
+105
+-health
+25
+-Walk speed
+35
+-Attack damage
+4
+-Time to enter
+1
+-
+-Type zombie
+105
+-health
+15
+-Walk speed
+25
+-Attack damage
+4
+-Time to enter
+0.5
+-
+-Type zombie
+105
+-health
+25
+-Walk speed
+30
+-Attack damage
+4
+-Time to enter
+2
+-
+-Type zombie
+105
+-health
+15
+-Walk speed
+35
+-Attack damage
+4
+-Time to enter
+1
+-
+-Type zombie
+105
+-health
+25
+-Walk speed
+25
+-Attack damage
+4
+-Time to enter
+0.5
+-
+-Type zombie
+105
+-health
+15
+-Walk speed
+35
+-Attack damage
+4
+-Time to enter
+0.5
+-
+-Type zombie
+105
+-health
+25
+-Walk speed
+30
+-Attack damage
+4
+-Time to enter
+1
+-
+~
+-End of all waves here - use symbol "@"
+@
